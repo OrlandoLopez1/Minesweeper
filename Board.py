@@ -59,7 +59,7 @@ class Board:
         self.can_click_board = True
 
     def initialize_board(self):
-        # code reused from Path Finding Visualizer Project todo add github link
+        # code reused from Path Finding Visualizer Project
 
         # board[row][col]
         # TL corner
